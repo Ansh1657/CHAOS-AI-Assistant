@@ -179,6 +179,4 @@ This software is for educational and personal use. Be cautious with system contr
 
 ---
 
-**Made with ❤️ by [Your Name]**
-
-*CHAOS AI - Bringing order to your digital chaos!*
+**Made with curiosity by Ansh Chhibber**
